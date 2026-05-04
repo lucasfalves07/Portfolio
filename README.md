@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🗂️ Portfólio — Lucas Francisco Alves
 
 Site de portfólio pessoal desenvolvido com HTML e CSS puro, sem frameworks ou dependências externas.
@@ -47,3 +48,7 @@ portfolio/
 ---
 
 Desenvolvido por **Lucas Francisco Alves** · Santo André, SP
+=======
+# Portfolio
+Personal portfolio website built with HTML and CSS — showcasing projects, technical skills, and certifications.
+>>>>>>> 8b6eae59622a3c3ce62f0c1331418169cc2c2b71
