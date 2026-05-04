@@ -1,20 +1,9 @@
 <<<<<<< HEAD
 # 🗂️ Portfólio — Lucas Francisco Alves
 
-Site de portfólio pessoal desenvolvido com HTML e CSS puro, sem frameworks ou dependências externas.
+Site de portfólio pessoal desenvolvido com HTML e CSS.
 
-## ✨ Sobre o projeto
 
-Este portfólio foi criado para apresentar minha trajetória acadêmica, projetos desenvolvidos, habilidades técnicas e formas de contato. O site é totalmente estático e funciona diretamente no navegador, sem necessidade de servidor.
-
-## 📄 Seções
-
-- **Hero** — Apresentação com nome e foto
-- **Sobre mim** — Formação, localização e idiomas
-- **Habilidades técnicas** — Linguagens, ferramentas e metodologias
-- **Projetos** — Cases acadêmicos com links para o GitHub
-- **Certificações** — Cursos e certificados obtidos
-- **Contato** — Email, telefone, LinkedIn e GitHub
 
 ## 🛠️ Tecnologias
 
